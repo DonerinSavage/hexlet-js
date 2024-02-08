@@ -1,3 +1,4 @@
 import getLastNumber from './src/index.js';
 
-getLastNumber();
+console.log(getLastNumber());
+console.log('Hello, World!');
