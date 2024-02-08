@@ -1,5 +1,3 @@
-import fs from "fs";
-import _ from "lodash";
+import getLastNumber from './src/index.js';
 
-console.log(_.last(["one", "two"]));
-console.log("Hello, Hexlet!");
+getLastNumber();
